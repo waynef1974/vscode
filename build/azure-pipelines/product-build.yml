@@ -6,9 +6,9 @@ resources:
   - container: snapcraft
     image: snapcore/snapcraft:stable
 
-variables:
-  VSCODE_QUALITY: exploration
-  VSCODE_RELEASE: true
+# variables:
+#   VSCODE_QUALITY: exploration
+#   VSCODE_RELEASE: true
 
 jobs:
 - job: Compile
