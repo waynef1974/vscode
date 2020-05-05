@@ -1,7 +1,7 @@
 {
 	"version": "0.1.0",
 	"configurations": [
-		
+
 
 		{
 			"type": "chrome",
@@ -61,7 +61,7 @@
 			}
 		},
 		{
-			"type": "pwa-chrome",
+			"type":"pwa-chrome" ,
 			"request": "attach",
 			"name": "Attach to Shared Process",
 			"port": 9222,
